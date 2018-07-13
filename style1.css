@@ -1,0 +1,44 @@
+body,html{
+    height: 100%;
+    margin: 0px;
+} 
+
+.bg{
+    background-image: url(pexels-photo-808156.jpeg);
+    height: 100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.gaba{
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px;
+} 
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+} 
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.25);
+} 
+
+.navbar-inverse .navbar-brand {
+    color: azure;
+}
+
+.hero-text{
+    text-align: center;
+    color:azure;
+    top: 50%;
+    left: 50%;
+    margin-top: 270px;
+    
+    
+} 
+.a{
+    color: orangered;
+}

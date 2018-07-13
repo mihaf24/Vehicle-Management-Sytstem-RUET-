@@ -1,0 +1,88 @@
+.gabanav{
+    
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px;
+   
+} 
+
+.navbar-fixed-top.scrolled {
+   background-color: #2f2f2f;
+  transition: background-color 200ms linear;
+}
+ 
+.navbar-inverse .navbar-nav>li>a {
+    color: #eea7a7;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #d8bcf2;
+    background-color: transparent;
+}
+
+@media (min-width: 768px)
+.navbar {
+    border-radius: 30px;
+} 
+
+.jumbotron {
+    padding-top: 38px;
+    padding-bottom: 30px;
+    padding-left: 26px;
+    margin-bottom: 0px;
+    color: inherit;
+    background-color: #282931;
+} 
+.jumbotron h2 {
+    color: indianred;
+   
+} 
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-weight: 200;
+    color: #ffffff;
+    margin-left: 0px;
+} 
+
+
+
+/*slider*/
+
+
+    .slider {
+        width: 100%;
+        margin: 0px auto;
+        height: 100%;
+    }
+
+    .slick-slide {
+      margin: 0px 50px;
+    }
+
+    .slick-slide img {
+      width: 100%;
+    }
+
+    .slick-prev:before,
+    .slick-next:before {
+      color: #282931;
+    }
+
+
+    .slick-slide {
+      transition: all ease-in-out .5s;
+      opacity: .2;
+    }
+    
+    .slick-active {
+      opacity: .5;
+    }
+
+    .slick-current {
+      opacity: 1;
+    } 
+/*end slider*/
+ 
+
+
+
