@@ -17,3 +17,32 @@ process with the touch of a keypad.
 
 This project was done as a 6th semester project under Prof. Dr. Md Shahid-Uz-Zaman. This project is now on beta version as there might be
 some bugs. Any kind of correction or bug-fixing is highly welcomed. 
+
+Some screenshots of the project is given below- 
+**Home Page**
+![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/home.png) 
+
+**Home Page(Before Login)**
+![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/home.png) 
+
+**Admin Login**
+![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/admin.png)
+
+**Booking Page**
+![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/booking.png)
+
+**Corresponding Bill Page for a personal account**
+![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/corresponding%20bill.png)
+
+**New Driver Form**
+![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/driver%20form.png)
+
+**Booking from different users (accessed by admin only)**
+![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/list.png)
+
+**Unsuccessful Login**
+![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/login.png)
+
+**Registered Bus (Accessed by admin only)**
+![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/vechicle%20list.png)
+
