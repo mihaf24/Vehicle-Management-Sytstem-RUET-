@@ -19,11 +19,10 @@ This project was done as a 6th semester project under Prof. Dr. Md Shahid-Uz-Zam
 some bugs. Any kind of correction or bug-fixing is highly welcomed. 
 
 Some screenshots of the project is given below- 
+
 **Home Page**
 ![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/home.png) 
 
-**Home Page(Before Login)**
-![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/home.png) 
 
 **Admin Login**
 ![Admin Login](https://github.com/mihaf24/Vehicle-Management-Sytstem-RUET-/blob/master/screenshots/admin.png)
